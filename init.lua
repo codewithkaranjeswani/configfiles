@@ -1,2 +1,2 @@
-require("thekaranjeswani")
-print("hello world")
+-- require("thekaranjeswani")
+-- print("hello world")

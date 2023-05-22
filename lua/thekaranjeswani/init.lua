@@ -1,2 +1,2 @@
-require("thekaranjeswani.remap")
-print("hello from karanjeswani")
+-- require("thekaranjeswani.remap")
+-- print("hello from karanjeswani")
