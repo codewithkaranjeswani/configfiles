@@ -1,2 +1,2 @@
--- require("thekaranjeswani")
+require("thekaranjeswani")
 -- print("hello world")

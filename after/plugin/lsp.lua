@@ -1,7 +1,9 @@
 local lsp = require('lsp-zero')
 lsp.preset('recommended')
 lsp.ensure_installed({
-	'sumneko_lua',
+	'tsserver',
+	'eslint',
+	'lua_ls',
 	'rust_analyzer',
 })
 
